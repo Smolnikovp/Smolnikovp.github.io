@@ -734,7 +734,7 @@ header{
     padding: 10px 20px;
 }
 
-.imghref.imghref_brand a{
+.imghref.imghref_brand{
     text-decoration: none;
 }
 
